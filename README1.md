@@ -1,8 +1,8 @@
 # Adventure Camp - Sistem Penyewaan Peralatan Camping
 
 ## Identitas Mahasiswa
-- Nama: Rifa Rifaldi
-- NIM: C258327037
+- Nama: Aldi Kurniawan
+- NIM: C258327023
 - Program Studi: Pendidikan Teknologi Informasi
 - Universitas: Universitas Muhammadiyah Tasikmalaya
 
